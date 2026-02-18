@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Rajeev Kumar</h1>
-<h3 align="center">AI/ML Intern @ Christ Infotech | MSc Data Science @ Christ University | Aspiring Data Analyst</h3>
+<h3 align="center">AI/ML Intern @ Christ Infotech | MSc Data Science @ Christ University |Data Analyst</h3>
 
 ---
 
