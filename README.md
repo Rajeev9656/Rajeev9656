@@ -1,3 +1,23 @@
+Hi 👋 I'm Rajeev Kumar
+
+🎓 MSc Data Science Student @ Christ University
+💻 AI/ML Intern @ Christ Infotech
+🚀 Developer of LearnBridge – AI-powered learning platform
+
+🔹 Skills
+Python | Machine Learning | Django | NLP | OCR | Data Analysis | Excel
+
+🔹 Current Work
+• Integrating AI tools with Course Module
+• Building Learning Support System
+• Fixing errors in LearnBridge AI integration
+
+🎯 Career Goal
+Aspiring to join the Defense sector and build impactful AI solutions.
+
+📫 Connect with me
+LinkedIn: linkedin.com/in/rajeev-kumar-890136275
+Email: rajeevkumarlm10@gmail.com
 ## Hi there 👋
 
 <!--
