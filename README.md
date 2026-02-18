@@ -18,7 +18,6 @@ Aspiring to join the Defense sector and build impactful AI solutions.
 📫 Connect with me
 LinkedIn: linkedin.com/in/rajeev-kumar-890136275
 Email: rajeevkumarlm10@gmail.com
-## Hi there 👋
 
 <!--
 **Rajeev9656/Rajeev9656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
