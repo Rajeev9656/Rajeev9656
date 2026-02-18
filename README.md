@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋 I'm Rajeev Kumar</h1>
-<h3 align="center">AI/ML Intern @ Christ Infotech | MSc Data Science @ Christ University | AI & Analytics</h3>
+<h1 align="center">Hi, I'm Rajeev Kumar</h1>
+<h3 align="center">AI/ML Intern @ Christ Infotech | MSc Data Science @ Christ University | AI & Analytics </h3>
 
 ---
 
-## 🚀 About Me
-🎓 MSc Data Science (AI & Analytics) student at Christ University  
-💼 AI/ML Intern at Christ Infotech  
-🌦️ Research Intern at India Meteorological Department (IMD) – Wet-bulb temperature analysis  
-🤖 Building **LearnBridge**, an AI-powered learning platform using OCR + multimodal LLMs (LLaVA via Ollama)  
-📊 Passionate about Data Science, Machine Learning, Climate Data Analysis, and Business Analytics  
+## About Me
+- MSc Data Science (AI & Analytics) student at Christ University  
+- AI/ML Intern at Christ Infotech  
+- Research Intern at India Meteorological Department (IMD) – Wet-bulb temperature analysis  
+- Developing LearnBridge, an AI-powered learning platform using OCR and multimodal LLMs (LLaVA via Ollama)  
+- Interested in Data Science, Machine Learning, Climate Data Analysis, and Business Analytics  
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 **Languages:** Python, SQL  
 **AI/ML:** Machine Learning, NLP, OCR, LLaVA, BLIP, Ollama  
@@ -23,49 +23,50 @@
 
 ---
 
-## 📌 Featured Project – LearnBridge (Ongoing)
+## Featured Project – LearnBridge (Ongoing)
 
-**AI-powered learning support platform**
+AI-powered learning support platform
 
-✔ Course creation with AI integration  
-✔ Study-material analysis using OCR + multimodal LLMs  
-✔ Quiz generation & weak-topic detection  
-✔ Personalized learning support module  
-✔ Backend development using Python & Django  
+- Course creation with AI integration  
+- Study-material analysis using OCR and multimodal LLMs  
+- Quiz generation and weak-topic detection  
+- Personalized learning support module  
+- Backend development using Python and Django  
 
-> Goal: Build an intelligent academic learning assistant for students.
-
----
-
-## 📚 Research Work
-
-**Climatological Assessment of Wet-Bulb Temperature Patterns Across India**  
-📍 India Meteorological Department  
-Analyzing meteorological datasets using Python time-series analysis to study humid-heat patterns and climate risk forecasting. *(Ongoing research)*  
+Goal: Build an intelligent academic learning assistant for students.
 
 ---
 
-## 📖 Other Projects
-• AI Image Captioning & Narration using BLIP + NLP  
-• Time Series Analysis of Pune Temperature using SARIMA  
-• Student Performance Prediction using Regression  
-• Vehicle Rental System using Django  
+## Research Work
+
+Climatological Assessment of Wet-Bulb Temperature Patterns Across India  
+India Meteorological Department  
+
+Analyzing meteorological datasets using Python time-series analysis to study humid-heat patterns and climate risk forecasting (Ongoing research).
 
 ---
 
-## 🌱 Currently Learning
-• Advanced Data Analysis  
-• Business Analytics  
-• LLM Integration & AI Backend Systems  
-• Model Deployment  
+## Other Projects
+- AI Image Captioning and Narration using BLIP and NLP  
+- Time Series Analysis of Pune Temperature using SARIMA  
+- Student Performance Prediction using Regression  
+- Vehicle Rental System using Django  
 
 ---
 
-## 📫 Connect With Me
-🔗 LinkedIn: https://linkedin.com/in/rajeev-kumar-890136275  
-📧 Email: rajeevkumarlm10@gmail.com  
-💻 GitHub Projects: https://github.com/Rajeev9656  
+## Currently Learning
+- Advanced Data Analysis  
+- Business Analytics  
+- LLM Integration and AI Backend Systems  
+- Model Deployment  
 
 ---
 
-⭐ Open to AI/ML Internships, Data Analyst roles, and Research collaborations.
+## Connect With Me
+LinkedIn: https://linkedin.com/in/rajeev-kumar-890136275  
+Email: rajeevkumarlm10@gmail.com  
+GitHub Projects: https://github.com/Rajeev9656  
+
+---
+
+Open to AI/ML Internships, Data Analyst roles, and Research collaborations.
