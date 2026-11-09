@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Rajeev Kumar</h1>
----
 
 ## About Me
 - MSc Data Science (AI & Analytics) student at Christ University  
