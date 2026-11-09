@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Rajeev Kumar</h1>
-
 ---
 
 ## About Me
